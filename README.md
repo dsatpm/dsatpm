@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm dsatpm aka Jeremiah</h1>
-<h3 align="center">Full Stack developer from Oregon, USA</h3>
+<h1>Hi 👋, I'm dsatpm aka Jeremiah</h1>
+<h3>Full Stack developer from Oregon, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat" alt="dsatpm" /> </p>
 

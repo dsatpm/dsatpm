@@ -1,28 +1,32 @@
-# 👋 Hi, I’m @dsatpm aka Jeremiah
+<h1 align="center">Hi 👋, I'm dsatpm aka Jeremiah</h1>
+<h3 align="center">Full Stack developer from Oregon, USA</h3>
 
-🤘 I am a full-stack developer <br>
-💻 I am enrolled in a full-stack bootcamp through ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white), 3/4 finished with a cs degree <br>
-👀 I am currently learning advanced JavaScript, React.js, Bootstrap, SQL, and Tailwind <Br>
-❗ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsatpm&label=Profile%20views&color=0e75b6&style=flat" alt="dsatpm" /> </p>
 
-## 📍 Skillset
+<p align="left"> <a href="https://twitter.com/__dsatpm" target="blank"><img src="https://img.shields.io/twitter/follow/__dsatpm?logo=twitter&style=for-the-badge" alt="__dsatpm" /></a> </p>
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br>
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>  basic ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) (very little) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🔭 My current project is: [Laughing Crow Salon](https://github.com/dsatpm/lc-salon)
 
-## Contribution
+- 🌱 My current learning path is: **JavaScript, API's, SQL, React**
 
-Feel free to add contributions any time!
+- 👨‍💻 My portfolio page: [https://dsatpm.github.io/portfolio-page/](https://dsatpm.github.io/portfolio-page/)
 
-## Contact
+- 📫 You can reach me here: **jeremiahjh@gmail.com**
 
-If you would like to reach out to me to give feedback or to say what's up,<br>
-email me @ [jeremiahjh@gmail.com](mailto:jeremiahjh@gmail.com?subject[GitHub])<br>
-dsatpm @ ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) let's battle!<br>
-KneltRote on Legends of Runeterra @ ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)<br>
+- 📄 My resume can be found here: [https://www.linkedin.com/in/jeremiah-j-haynes/](https://www.linkedin.com/in/jeremiah-j-haynes/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/__dsatpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__dsatpm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeremiah haynes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah haynes" height="30" width="40" /></a>
+<a href="https://instagram.com/__dsatpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dsatpm" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dsatpm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dsatpm" /></a></p><br><br>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsatpm&show_icons=true&locale=en&layout=compact" alt="dsatpm" /></p>
 

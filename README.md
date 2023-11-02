@@ -15,7 +15,7 @@
 
 - 🌱 My current learning path is: **JavaScript, API's, SQL, React**
 
-- 👨‍💻 My portfolio page: [https://dsatpm.github.io/portfolio-page/](https://dsatpm.github.io/portfolio-page/)
+- 👨‍💻 My portfolio page: [https://dsatpm.github.io/portfolio-page/](https://dsatpm.github.io/portfolio-page/) **Being re-worked to better display what I've learned**
 
 - 📫 You can reach me here: **jeremiahjh@gmail.com**
 

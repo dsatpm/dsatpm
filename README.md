@@ -13,7 +13,7 @@
 
 - 🔭 My current project is: [Laughing Crow Salon](https://github.com/dsatpm/lc-salon)
 
-- 🌱 My current learning path is: **JavaScript, API's, SQL, React**
+- 🌱 My current learning path is: **JavaScript, MERN Stack, NoSQL, React**
 
 - 👨‍💻 My portfolio page: [jeremiah-haynes.com](https://www.jeremiah-haynes.com/) **Being re-worked to better display what I've learned**
 

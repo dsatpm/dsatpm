@@ -15,7 +15,7 @@
 
 - 🌱 My current learning path is: **JavaScript, MERN Stack, NoSQL, React**
 
-- 👨‍💻 My portfolio page: [jeremiah-haynes.com](https://www.jeremiah-haynes.com/) **Being re-worked to better display what I've learned**
+- 👨‍💻 My portfolio page: [jeremiah-haynes.com](https://www.jeremiah-haynes.com/)
 
 - 📫 You can reach me here: **jeremiahjh@gmail.com**
 

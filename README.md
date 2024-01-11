@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🔭 My current project is: [Laughing Crow Salon](https://github.com/dsatpm/lc-salon)
+- 🔭 My current project is: Catnip Chronicles (2D sidescrolling platformer game using MERN tech stack)
 
 - 🌱 My current learning path is: **JavaScript, MERN Stack, NoSQL, React**
 

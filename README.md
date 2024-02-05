@@ -13,7 +13,7 @@
 
 - 🔭 My current project is: Catnip Chronicles (2D sidescrolling platformer game using MERN tech stack)
 
-- 🌱 My current learning path is: **JavaScript, MERN Stack, NoSQL, React**
+- 🌱 My current learning path is: **JavaScript, MERN Stack, PHP, mySQL**
 
 - 👨‍💻 My portfolio page: [jeremiah-haynes.com](https://www.jeremiah-haynes.com/)
 

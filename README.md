@@ -11,13 +11,13 @@
   </a> 
 </p>
 
-- 🔭 My current project is: Catnip Chronicles (2D sidescrolling platformer game using MERN tech stack)
+- 🔭 My current project is: Dragon Warrior clone using Java
 
-- 🌱 My current learning path is: **JavaScript, MERN Stack, PHP, mySQL**
+- 🌱 My current learning path is: **Java, PHP**
 
-- 👨‍💻 My portfolio page: [jeremiah-haynes.com](https://www.jeremiah-haynes.com/)
+- 👨‍💻 My portfolio page: [HTPdevs](https://www.htpdevs.tech/)
 
-- 📫 You can reach me here: **jeremiahjh@gmail.com**
+- 📫 You can reach me here: **jeremiahjh@htpdevs.tech**
 
 - 📄 My resume can be found here: [https://www.linkedin.com/in/jeremiah-j-haynes/](https://www.linkedin.com/in/jeremiah-j-haynes/)
 
@@ -34,18 +34,18 @@
 </a>
 </p>
 
-<h3 align="left">Languages / Front-End</h3>
+<h3 align="left">Front-End</h3>
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=php,html,css,js,ts,wordpress" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </div>
-<h3 align="left">Databases / Back-End</h3>
+<h3 align="left">Back-End</h3>
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=express,nodejs,php,mongodb,mysql,postgres,sequelize,webpack" />
+	<img src="https://skillicons.dev/icons?i=express,nodejs,php,mongodb,mysql,postgres,sequelize,webpack,java" />
 </div>
 
 <h3 align="left">Libraries / Frameworks</h3>
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=react,tailwind,sass,bootstrap,jquery,nextjs,vue,vite" />
+	<img src="https://skillicons.dev/icons?i=react,tailwind,sass,bootstrap,jquery,nextjs,vite" />
 </div>
 
 <h3 align="left">Support:</h3>

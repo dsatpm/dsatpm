@@ -40,7 +40,7 @@
 </div>
 <h3 align="left">Back-End</h3>
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=express,nodejs,php,mongodb,mysql,postgres,sequelize,webpack,java" />
+	<img src="https://skillicons.dev/icons?i=express,nodejs,php,mongodb,mysql,sequelize,webpack,java" />
 </div>
 
 <h3 align="left">Libraries / Frameworks</h3>

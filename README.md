@@ -39,28 +39,6 @@ passive skills:
   - git-mastery
 ```
 
-### Stats
-
-```html
-<svg width="100%" height="20">
-  <rect width="100%" height="20" fill="#333" rx="5" />
-  <rect width="90%" height="20" fill="#4caf50" rx="5" />
-  <text x="5" y="15" fill="white" font-size="12">JavaScript (90%)</text>
-</svg>
-
-<svg width="100%" height="20">
-  <rect width="100%" height="20" fill="#333" rx="5" />
-  <rect width="85%" height="20" fill="#2196f3" rx="5" />
-  <text x="5" y="15" fill="white" font-size="12">PHP (85%)</text>
-</svg>
-
-<svg width="100%" height="20">
-  <rect width="100%" height="20" fill="#333" rx="5" />
-  <rect width="70%" height="20" fill="#ff9800" rx="5" />
-  <text x="5" y="15" fill="white" font-size="12">Java (70%)</text>
-</svg>
-```
-
 ### Quests (Projects)
 
 Main Quest:

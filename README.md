@@ -8,10 +8,6 @@ class: full-stack-engineer
 level: 9 (junior-dev)
 alignment: chaotic-good
 race: human (pacific-northwest)
-class: full stack engineer
-level: 9
-alignment: chaotic good
-race: human (pacific northwest)
 
 guilds:
   - hello world devs (web developer/contractor)

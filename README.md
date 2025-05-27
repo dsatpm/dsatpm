@@ -16,11 +16,8 @@ race: human (pacific-northwest)
 guilds:
   - hello-world-devs (web developer/contractor)
   - brainjar (contractor)
-```
 
-### Equipment & Inventory
-
-```yaml
+# equipment & inventory
 primary weapons:
   - staff-of-ansyncronous-requests (javascript)
   - blades-of-laravel (php)

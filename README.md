@@ -5,7 +5,7 @@
 ```yaml
 name: jeremiah-haynes
 class: full-stack-engineer
-level: 9
+level: 9 (junior-dev)
 alignment: chaotic-good
 race: human (pacific-northwest)
 

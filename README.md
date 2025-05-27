@@ -1,6 +1,6 @@
 <h1>🧙 Jeremiah, the Developer</h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=tokyonight&count_private=true" /></p>
-<a align="center" href="https://www.buymeacoffee.com/dsatpm"> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=tokyonight&count_private=true" /></p>
+<a href="https://www.buymeacoffee.com/dsatpm"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dsatpm" />
 </a>
 

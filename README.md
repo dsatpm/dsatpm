@@ -1,8 +1,8 @@
 <h1>🧙 Jeremiah the Developer</h1>
-<p><em>Chaotic Good | Professional Heathen</em></p>
+<h3>Chaotic Good | Professional Heathen</h3>
 
-<p><em>Web Developer/Contractor at <a href="https://helloworlddevs.com">HelloWorldDevs</a></br>
-<p><em>Full Stack Engineer/Contractor at <a href="https://brainjar.net">Brainjar</p>
+<p>Web Developer/Contractor at <a href="https://helloworlddevs.com">HelloWorldDevs</a></br>
+<p>Full Stack Engineer/Contractor at <a href="https://brainjar.net">Brainjar</p>
 
 ## 🧾 Character Sheet
 

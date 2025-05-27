@@ -36,10 +36,10 @@ passive skills:
 ### Quests (Projects)
 
 ```yaml
-Main Quest:
+main quest:
   - 🎮 build nes-era 8-bit rpg from scratch using java
 
-Side Quests:
+side quests:
   - ✈️ drupal 10 migration
   - 💏 laravel/react integrations
   - 👉 circleci testing

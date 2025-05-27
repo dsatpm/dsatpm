@@ -56,8 +56,8 @@ Side Quests:
 ### Locations & Fast Travel
 
 ```yaml
-- [HelloWorldDevs](https://helloworlddevs.com)
-- [Brainjar](https://brainjar.net)
+- https://helloworlddevs.com
+- https://brainjar.net
 ```
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=tokyonight" /></p>

@@ -1,8 +1,4 @@
 <h1>🧙 Jeremiah the Developer</h1>
-<h3>Chaotic Good | Professional Heathen</h3>
-
-<p>Web Developer/Contractor at <a href="https://helloworlddevs.com">HelloWorldDevs</a></br>
-<p>Full Stack Engineer/Contractor at <a href="https://brainjar.net">Brainjar</p>
 
 ## 🧾 Character Sheet
 
@@ -44,7 +40,7 @@ side quests:
   - circleci testing
 ```
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=tokyonight&count_private=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dsatpm&show_icons=true&layout=compact&theme=tokyonight" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=tokyonight" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=tokyonight&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dsatpm&show_icons=true&layout=compact&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=tokyonight" /> </p>
 
 <a href="https://www.buymeacoffee.com/dsatpm"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dsatpm" />

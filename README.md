@@ -33,11 +33,8 @@ passive skills:
   - database taming (mysql + migrations)
   - component summoning (custom hooks)
   - git-mastery
-```
 
-### Quests (Projects)
-
-```yaml
+# quests (projects)
 main quest:
   - build nes-era 8-bit rpg from scratch using java
 

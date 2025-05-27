@@ -4,17 +4,14 @@
 
 ```yaml
 name: jeremiah-haynes
-<<<<<<< HEAD
 class: full-stack-engineer
 level: 9 (junior-dev)
 alignment: chaotic-good
 race: human (pacific-northwest)
-=======
 class: full stack engineer
 level: 9
 alignment: chaotic good
 race: human (pacific northwest)
->>>>>>> fa4c524 (Fix formatting and improve readability in README.md)
 
 guilds:
   - hello world devs (web developer/contractor)

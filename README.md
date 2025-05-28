@@ -56,8 +56,8 @@ side-quests:
 
 ### Locations & Fast Travel
 
-[HelloWorldDevs](https://helloworlddevs.com)
-[Brainjar](https://brainjar.net)
+- 🌎 [HelloWorldDevs](https://helloworlddevs.com)
+- 🌎 [Brainjar](https://brainjar.net)
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=dracula" /></p>
 

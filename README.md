@@ -4,33 +4,34 @@
 ## 🧾 Character Sheet
 
 ```yaml
-name: jeremiah-haynes
-class: full-stack-engineer
-level: 9 (junior-dev)
-alignment: chaotic-good
-race: human (pacific-northwest)
+name: jeremiah_haynes
+  class: full_stack_engineer
+  race: junior_dev
+  level: 5
+  alignment: chaotic_good
+  origin: pacific_northwest
 
 guilds:
-  - hello world devs (web developer/contractor)
+  - hello_world_devs (web_developer/contractor)
   - brainjar (contractor)
 
 # equipment & inventory
-primary weapons:
-  - staff of ansyncronous requests (javascript)
-  - blades of laravel (php)
-  - scrolls of the ancients (java)
-  - daggers of speed & semantics (html & css)
-  - flask of bottomless coffee
+primary-weapons:
+  - staff_of_ansyncronous_requests (javascript)
+  - blades_of_laravel (php)
+  - scrolls_of_the_ancients (java)
+  - daggers_of_speed_&_semantics (html & css)
+  - flask_of_bottomless_coffee
 
-secondary tools:
-  - react, next.js, node.js
+secondary-tools:
+  - react, next_js, node_js
   - drupal, wordpress, drush
   - lando, docker, composer
 
-passive skills:
-  - database taming (mysql + migrations)
-  - component summoning (custom hooks)
-  - git-mastery
+passive-skills:
+  - database_taming (mysql+migrations)
+  - component_summoning (custom_hooks)
+  - git_mastery
 ```
 
 ### Quests (Projects)

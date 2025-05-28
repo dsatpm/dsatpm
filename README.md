@@ -37,29 +37,27 @@ passive-skills:
 ### Quests (Projects)
 
 ```yaml
-main quest:
-  - 🎮 build nes-era 8-bit rpg from scratch using java
+main-quests:
+  - ✈️ drupal_10_migration
+  - 💏 laravel+react_integrations
+  - 👉 circleci_testing
 
-side quests:
-  - ✈️ drupal 10 migration
-  - 💏 laravel/react integrations
-  - 👉 circleci testing
+side-quests:
+  - 🎮 build_nes-era_8-bit_rpg_from_scratch_using_java
 ```
 
 ### Traits
 
 ```yaml
-- 🐉 speaks fluent frontend
-- 🧪 critical hits in code readability
-- 🪓 a good build is like a sharp axe: minimal and deadly
+- 🐉 speaks_fluent_frontend
+- 🧪 critical_hits_in_code_readability
+- 🪓 a_good_build_is_like_a_sharp_axe: minimal_and_deadly
 ```
 
 ### Locations & Fast Travel
 
-```yaml
-- https://helloworlddevs.com
-- https://brainjar.net
-```
+[HelloWorldDevs](https://helloworlddevs.com)
+[Brainjar](https://brainjar.net)
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=dracula" /></p>
 

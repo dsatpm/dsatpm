@@ -51,15 +51,15 @@
 
 <p align="left">
   <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_REPO_NAME&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
   </a>
   
   <a href="https://github.com/HelloWorldDevs/dovelewis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=dovelewis&theme=dracula" />
   </a>
 
   <a href="https://github.com/HelloWorldDevs/cowlitz-indian-tribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=cowlitz-indian-tribe&theme=dracula" />
   </a>
 </p>
 
@@ -69,11 +69,11 @@
 
 <p align="left">
   <a href="https://github.com/dsatpm/d9book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_REPO_NAME&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=d9book&theme=dracula" />
   </a>
   
   <a href="https://github.com/dsatpm/generative-ai-for-beginners">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=generative-ai-for-beginners&theme=dracula" />
   </a>
 </p>
 

@@ -22,22 +22,12 @@
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-03536f?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
   <img src="https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Drupal-009CDE?style=for-the-badge&logo=drupal&logoColor=white" />
   <img src="https://img.shields.io/badge/Wordpress-3858E9?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-### Databases & Tools
-
-<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3DCF8D?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white" />

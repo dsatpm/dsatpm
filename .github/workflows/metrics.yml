@@ -1,0 +1,58 @@
+# .github/workflows/metrics.yml
+name: GitHub Metrics
+on:
+    # Schedule daily updates
+    schedule: [{ cron: "0 0 * * *" }]
+    # (optional) Run workflow manually
+    workflow_dispatch:
+    # (optional) Run workflow when pushing to main
+    push: { branches: ["main"] }
+
+jobs:
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write # Needed to write the SVG files back to the repo
+        steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                  # Your GitHub token
+                  # This will use the METRICS_TOKEN secret we created
+                  token: ${{ secrets.METRICS_TOKEN }}
+
+                  # -----------------------------------------
+                  #  CHOOSE YOUR "MISSION CONTROL" PLUGINS
+                  # -----------------------------------------
+
+                  # Base settings
+                  base: header, activity, community, repositories, metadata
+
+                  # Header Plugin (Your "A+" grade is coming!)
+                  # This will correctly count your private commits
+                  plugin_header: yes
+                  plugin_isocalendar: yes
+                  plugin_isocalendar_duration: full-year # Show a full year heatmap
+
+                  # Languages Plugin (Better than the simple Top-Langs card)
+                  plugin_languages: yes
+                  plugin_languages_details: bytes-size, percentage
+                  plugin_languages_threshold: 0% # Show all languages
+                  plugin_languages_colors: "github"
+                  plugin_languages_limit: 8 # Show top 8
+
+                  # Habits Plugin (Cool insights!)
+                  plugin_habits: yes
+                  plugin_habits_from: 200 # Analyze last 200 commits
+                  plugin_habits_charts: yes
+                  plugin_habits_days: 14 # Show last 14 days
+                  plugin_habits_facts: yes
+
+                  # Achievements Plugin (This fits your old RPG theme!)
+                  plugin_achievements: yes
+                  plugin_achievements_threshold: C # Show C-rank achievements and up
+                  plugin_achievements_limit: 0 # Show all
+
+                  # Apply the Dracula theme
+                  config_display: "regular"
+                  config_timezone: America/Los_Angeles # Set to your timezone
+                  config_theme: dracula

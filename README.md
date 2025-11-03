@@ -44,7 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
   </a>
 
-<p align="left">
   <a href="https://github.com/dsatpm/d9book">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=d9book&theme=dracula" />
   </a>

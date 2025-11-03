@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-00BCFF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/SaSS-C04080?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-232132?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pantheon-FFDC28?style=for-the-badge&logo=pantheon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pantheon-FFDC28?style=for-the-badge&logo=pantheon&logoColor=black" />
 
 </p>
 

@@ -39,23 +39,10 @@
 
 ## Featured Projects
 
-### Professional Projects
-
 <p align="left">
   <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
   </a>
-  
-  <a href="https://github.com/HelloWorldDevs/dovelewis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=dovelewis&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/HelloWorldDevs/cowlitz-indian-tribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=cowlitz-indian-tribe&theme=dracula" />
-  </a>
-</p>
-
-### Personal Projects
 
 <p align="left">
   <a href="https://github.com/dsatpm/d9book">

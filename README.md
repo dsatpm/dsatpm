@@ -4,13 +4,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=dracula&count_private=true" />
-</p>
-
-<p align="left">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=dracula" />
-</p>
-
-<p align="left">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatpm&layout=compact&theme=dracula" />
 </p>
 

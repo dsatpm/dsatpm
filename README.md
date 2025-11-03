@@ -16,8 +16,6 @@
 
 ## Tech Stack
 
-### Core Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-03536f?style=for-the-badge&logo=openjdk&logoColor=white" />

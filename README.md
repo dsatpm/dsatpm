@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Drupal-009CDE?style=for-the-badge&logo=drupal&logoColor=white" />
   <img src="https://img.shields.io/badge/Wordpress-3858E9?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-01684A?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3DCF8D?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-03084D?style=for-the-badge&logo=docker&logoColor=white" />

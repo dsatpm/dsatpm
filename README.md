@@ -43,11 +43,15 @@
   <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
   </a>
+</p>
 
+<p align="left">
   <a href="https://github.com/dsatpm/d9book">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=d9book&theme=dracula" />
   </a>
-  
+</p>
+
+<p align="left">
   <a href="https://github.com/dsatpm/generative-ai-for-beginners">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=generative-ai-for-beginners&theme=dracula" />
   </a>

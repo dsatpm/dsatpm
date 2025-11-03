@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Pantheon-FFDC28?style=for-the-badge&logo=pantheon&logoColor=black" />
   <img src="https://img.shields.io/badge/Composer-89552D?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-C5D928?style=for-the-badge&logo=zsh&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-66309A?style=for-the-badge&logo=css&logoColor=white" />
 
 </p>
 

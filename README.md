@@ -47,8 +47,6 @@
 
 ### Professional Projects
 
-**Note:** These projects are marked a private for security reasons
-
 <p align="left">
   <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
@@ -64,8 +62,6 @@
 </p>
 
 ### Personal Projects
-
-**Note:** My personal projects are mostly for learning purposes.
 
 <p align="left">
   <a href="https://github.com/dsatpm/d9book">

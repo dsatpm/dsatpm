@@ -1,66 +1,90 @@
-<h1>🧙 Jeremiah, the Developer</h1>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=dracula&count_private=true" /></p>
+# Jeremiah Haynes
 
-## 🧾 Character Sheet
+### Full Stack Engineer | PNW
 
-```yaml
-name: jeremiah_haynes
-  class: full_stack_engineer
-  race: junior_dev
-  level: 5
-  alignment: chaotic_good
-  origin: pacific_northwest
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dsatpm&show_icons=true&theme=dracula&count_private=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsatpm&layout=compact&theme=dracula" />
+</p>
 
-guilds:
-  - hello_world_devs (web_developer/contractor)
-  - brainjar (contractor)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=dracula" />
+  
+  </p>
 
-# equipment & inventory
-primary-weapons:
-  - staff_of_ansyncronous_requests (javascript)
-  - blades_of_laravel (php)
-  - scrolls_of_the_ancients (java)
-  - daggers_of_speed_&_semantics (html & css)
-  - flask_of_bottomless_coffee
+## Tech Stack
 
-secondary-tools:
-  - react, next_js, node_js
-  - drupal, wordpress, drush
-  - lando, docker, composer
+### Core Stack
 
-passive-skills:
-  - database_taming (mysql+migrations)
-  - component_summoning (custom_hooks)
-  - git_mastery
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### Quests (Projects)
+### Frameworks & Libraries
 
-```yaml
-main-quests:
-  - ✈️ drupal_10_migration
-  - 💏 laravel+react_integrations
-  - 👉 circleci_testing
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+</p>
 
-side-quests:
-  - 🎮 build_nes-era_8-bit_rpg_from_scratch_using_java
-```
+### Databases & Tools
 
-### Traits
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-```yaml
-- 🐉 speaks_fluent_frontend
-- 🧪 critical_hits_in_code_readability
-- 🪓 a_good_build_is_like_a_sharp_axe: minimal_and_deadly
-```
+## Featured Projects
 
-### Locations & Fast Travel
+### Professional Projects
 
-- 🌎 [HelloWorldDevs](https://helloworlddevs.com)
-- 🌎 [Brainjar](https://brainjar.net)
+**Note:** These projects are marked a private for security reasons
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsatpm&theme=dracula" /></p>
+<p align="left">
+  <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_REPO_NAME&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/HelloWorldDevs/dovelewis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+  </a>
 
-<a href="https://www.buymeacoffee.com/dsatpm"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dsatpm" />
-</a>
+  <a href="https://github.com/HelloWorldDevs/cowlitz-indian-tribe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+  </a>
+</p>
+
+### Personal Projects
+
+**Note:** My personal projects are mostly for learning purposes.
+
+<p align="left">
+  <a href="https://github.com/dsatpm/d9book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_REPO_NAME&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/dsatpm/generative-ai-for-beginners">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=YOUR_OTHER_REPO&theme=dracula" />
+  </a>
+</p>
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://helloworlddevs.com">
+    <img src="https://img.shields.io/badge/HelloWorldDevs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..." /> </a>
+  <a href="https://brainjar.net">
+    <img src="https://img.shields.io/badge/Brainjar-FF5733?style=for-the-badge" /> </a>
+  <a href="https://www.buymeacoffee.com/dsatpm">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+  </p>

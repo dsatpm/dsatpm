@@ -57,14 +57,14 @@
   </a>
 </p>
 
-## Connect with Me
+## Connect
 
 <p align="left">
   <a href="https://helloworlddevs.com">
-    <img src="https://img.shields.io/badge/HelloWorldDevs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..." /> </a>
+    <img src="https://img.shields.io/badge/HelloWorldDevs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..." /></a>
   <a href="https://brainjar.net">
-    <img src="https://img.shields.io/badge/Brainjar-FF5733?style=for-the-badge" /> </a>
+    <img src="https://img.shields.io/badge/Brainjar-FF5733?style=for-the-badge" /></a>
   <a href="https://www.buymeacoffee.com/dsatpm">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
-  </p>
+</p>

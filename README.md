@@ -3,7 +3,8 @@
     <img src="/github-metrics.svg" alt="Metrics">
   </picture>
 </p>
-## Tech Stack
+
+<h2>Tech Stack</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />

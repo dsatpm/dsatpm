@@ -2,7 +2,9 @@
 
 ### Full Stack Engineer | PNW
 
-![Github Metrics](https://raw.githubusercontent.com/dsatpm/dsatpm/main/metrics.plugin.header.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## Tech Stack
 

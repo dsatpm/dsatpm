@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-<h2>Tech Stack</h2>
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />

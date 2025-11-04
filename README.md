@@ -1,7 +1,3 @@
-# Jeremiah Haynes
-
-### Full Stack Engineer | PNW
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>

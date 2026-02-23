@@ -4,6 +4,14 @@
   </picture>
 </p>
 
+## Now
+
+<!-- NOW_SECTION_START -->
+
+_This section is updated automatically once a week._
+
+<!-- NOW_SECTION_END -->
+
 ## Tech Stack
 
 <p align="left">
@@ -33,6 +41,7 @@
 
 ## Featured Projects
 
+<!-- FEATURED_PROJECTS_START -->
 <p align="left">
   <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">Pantheon CI Tool</a>
 </p>
@@ -44,6 +53,7 @@
 <p align="left">
   <a href="https://github.com/dsatpm/generative-ai-for-beginners">Generative AI for Beginners</a>
 </p>
+<!-- FEATURED_PROJECTS_END -->
 
 ## Connect
 
@@ -56,3 +66,27 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
+
+## Recent Activity
+
+<!-- RECENT_ACTIVITY_START -->
+
+_Recent GitHub activity will appear here._
+
+<!-- RECENT_ACTIVITY_END -->
+
+## Learning Log
+
+<!-- LEARNING_LOG_START -->
+
+_Recent TILs and learning notes will appear here._
+
+<!-- LEARNING_LOG_END -->
+
+## Skill Radar
+
+<!-- SKILL_RADAR_START -->
+
+_A snapshot of my current tech stack and focus areas will appear here._
+
+<!-- SKILL_RADAR_END -->

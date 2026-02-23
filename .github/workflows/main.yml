@@ -5,13 +5,10 @@ concurrency:
   cancel-in-progress: true
 
 on:
+  # Weekly on Monday at 09:00 UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 9 * * 1"
   workflow_dispatch:
-  push:
-    branches: ["main"]
-    paths:
-      - ".github/workflows/main.yml"
 
 jobs:
   github-metrics:
@@ -19,6 +16,7 @@ jobs:
     timeout-minutes: 15
     permissions:
       contents: write
+      metadata: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

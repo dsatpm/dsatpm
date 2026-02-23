@@ -26,7 +26,7 @@ jobs:
       - name: Generate header metrics card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.header.svg
           output_action: none
           config_presets: dracula
@@ -37,7 +37,7 @@ jobs:
       - name: Generate isocalendar metrics card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.isocalendar.svg
           output_action: none
           config_presets: dracula
@@ -49,7 +49,7 @@ jobs:
       - name: Generate languages metrics card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.languages.svg
           output_action: none
           config_presets: dracula
@@ -64,7 +64,7 @@ jobs:
       - name: Generate habits metrics card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.habits.svg
           output_action: none
           config_presets: dracula
@@ -79,7 +79,7 @@ jobs:
       - name: Generate achievements metrics card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.achievements.svg
           output_action: none
           config_presets: dracula
@@ -92,7 +92,7 @@ jobs:
       - name: Generate featured repositories card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.repositories.svg
           output_action: none
           base: ""
@@ -103,7 +103,7 @@ jobs:
       - name: Generate recent activity card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.activity.svg
           output_action: none
           base: ""

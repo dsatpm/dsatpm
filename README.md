@@ -34,21 +34,15 @@
 ## Featured Projects
 
 <p align="left">
-  <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helloworlddevs&repo=pantheon-ci-tools&theme=dracula" />
-  </a>
+  <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">Pantheon CI Tool</a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/dsatpm/d9book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=d9book&theme=dracula" />
-  </a>
+  <a href="https://github.com/dsatpm/d9book">Drupal 9 Book</a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/dsatpm/generative-ai-for-beginners">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsatpm&repo=generative-ai-for-beginners&theme=dracula" />
-  </a>
+  <a href="https://github.com/dsatpm/generative-ai-for-beginners">Generative AI for Beginners</a>
 </p>
 
 ## Connect

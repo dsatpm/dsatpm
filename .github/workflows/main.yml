@@ -26,7 +26,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            const core = require('@actions/core');
 
             const path = './README.md';
             const now = new Date();

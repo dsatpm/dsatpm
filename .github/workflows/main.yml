@@ -20,15 +20,78 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
       - name: Update "Now" section in README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-now.js
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const core = require('@actions/core');
+
+            const path = './README.md';
+            const now = new Date();
+            const updatedDate = now.toISOString().slice(0, 10);
+
+            const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
+            const query = `
+              query($from: DateTime!, $to: DateTime!) {
+                viewer {
+                  login
+                  contributionsCollection(from: $from, to: $to) {
+                    totalCommitContributions
+                    pullRequestContributions(first: 1) {
+                      totalCount
+                    }
+                    issueContributions(first: 1) {
+                      totalCount
+                    }
+                  }
+                }
+              }
+            `;
+
+            const variables = {
+              from: sevenDaysAgo.toISOString(),
+              to: now.toISOString(),
+            };
+
+            const result = await github.graphql(query, variables);
+            const viewer = result.viewer;
+            const contributions = viewer.contributionsCollection;
+
+            const totalCommits = contributions.totalCommitContributions;
+            const prCount = contributions.pullRequestContributions.totalCount;
+            const issueCount = contributions.issueContributions.totalCount;
+
+            const lines = [];
+            lines.push(`**Last updated:** ${updatedDate}`);
+            lines.push('');
+            lines.push(`- Commits (last 7 days): ${totalCommits}`);
+            lines.push(`- Pull requests opened (last 7 days): ${prCount}`);
+            lines.push(`- Issues opened (last 7 days): ${issueCount}`);
+            lines.push('');
+            lines.push(`_Auto-generated summary for @${viewer.login}_`);
+
+            const newSection = lines.join('\n');
+
+            const startMarker = '<!-- NOW_SECTION_START -->';
+            const endMarker = '<!-- NOW_SECTION_END -->';
+
+            const readme = fs.readFileSync(path, 'utf8');
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker);
+
+            if (startIndex === -1 || endIndex === -1) {
+              core.setFailed('NOW section markers not found in README.md');
+            }
+
+            const before = readme.slice(0, startIndex + startMarker.length);
+            const after = readme.slice(endIndex);
+
+            const updatedReadme = `${before}\n\n${newSection}\n${after}`;
+
+            fs.writeFileSync(path, updatedReadme);
 
       - name: Generate header metrics card
         uses: lowlighter/metrics@latest

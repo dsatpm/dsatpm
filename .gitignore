@@ -1,0 +1,9 @@
+.DS_Store
+.github/workflows/.DS_Store
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+node_modules/
+dist/

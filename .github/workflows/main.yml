@@ -26,8 +26,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            const core = require('@actions/core');
-
             const path = './README.md';
             const now = new Date();
             const updatedDate = now.toISOString().slice(0, 10);
@@ -83,7 +81,7 @@ jobs:
             const endIndex = readme.indexOf(endMarker);
 
             if (startIndex === -1 || endIndex === -1) {
-              core.setFailed('NOW section markers not found in README.md');
+              throw new Error('NOW section markers not found in README.md');
             }
 
             const before = readme.slice(0, startIndex + startMarker.length);

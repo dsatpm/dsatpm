@@ -39,9 +39,6 @@ _Auto-generated summary for @dsatpm_
   <img src="https://img.shields.io/badge/Copilot-232132?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Pantheon-FFDC28?style=for-the-badge&logo=pantheon&logoColor=black" />
   <img src="https://img.shields.io/badge/Composer-89552D?style=for-the-badge&logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zsh-C5D928?style=for-the-badge&logo=zsh&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-66309A?style=for-the-badge&logo=css&logoColor=white" />
-
 </p>
 
 ## Featured Projects
@@ -65,33 +62,8 @@ _Auto-generated summary for @dsatpm_
 <p align="left">
   <a href="https://helloworlddevs.com">
     <img src="https://img.shields.io/badge/HelloWorldDevs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..." /></a>
-  <a href="https://brainjar.net">
-    <img src="https://img.shields.io/badge/Brainjar-FF5733?style=for-the-badge" /></a>
   <a href="https://www.buymeacoffee.com/dsatpm">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
-## Recent Activity
-
-<!-- RECENT_ACTIVITY_START -->
-
-_Recent GitHub activity will appear here._
-
-<!-- RECENT_ACTIVITY_END -->
-
-## Learning Log
-
-<!-- LEARNING_LOG_START -->
-
-_Recent TILs and learning notes will appear here._
-
-<!-- LEARNING_LOG_END -->
-
-## Skill Radar
-
-<!-- SKILL_RADAR_START -->
-
-_A snapshot of my current tech stack and focus areas will appear here._
-
-<!-- SKILL_RADAR_END -->

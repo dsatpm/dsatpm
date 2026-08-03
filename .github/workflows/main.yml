@@ -20,8 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Generate profile metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          config_presets: dracula
+          config_timezone: America/Los_Angeles
+
       - name: Update "Now" section in README
         uses: actions/github-script@v7
+        continue-on-error: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -54,7 +63,22 @@ jobs:
               to: now.toISOString(),
             };
 
-            const result = await github.graphql(query, variables);
+            let result;
+            const maxAttempts = 3;
+            for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+              try {
+                result = await github.graphql(query, variables);
+                break;
+              } catch (err) {
+                core.warning(`GraphQL query failed (attempt ${attempt}/${maxAttempts}): ${err.message}`);
+                if (attempt === maxAttempts) {
+                  core.warning('Giving up on "Now" section update for this run; leaving README unchanged.');
+                  return;
+                }
+                await new Promise((resolve) => setTimeout(resolve, attempt * 5000));
+              }
+            }
+
             const viewer = result.viewer;
             const contributions = viewer.contributionsCollection;
 
@@ -186,4 +210,4 @@ jobs:
         with:
           commit_message: "chore(metrics): update GitHub metrics [skip ci]"
           branch: main
-          file_pattern: "metrics*.svg README.md"
+          file_pattern: "*.svg README.md"

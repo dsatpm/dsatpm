@@ -44,24 +44,31 @@ _Auto-generated summary for @dsatpm_
 ## Featured Projects
 
 <!-- FEATURED_PROJECTS_START -->
-<p align="left">
-  <a href="https://github.com/HTPdevs/birthmark">birthmark</a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/HTPdevs/htpfinder">HTPfinder</a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/dsatpm/merch-table">Merch Table</a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/HTPdevs/birthmark"><img src="https://opengraph.githubassets.com/1/HTPdevs/birthmark" alt="Birthmark" width="300" /><br /><img src="https://github.com/HTPdevs.png?size=40" alt="HTPdevs" width="20" height="20" /> <b>Birthmark</b></a><br /><sub>★ 0</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/HTPdevs/htpfinder"><img src="https://img.shields.io/badge/HTPfinder-181717?style=for-the-badge&logo=github&logoColor=white" alt="HTPfinder" /><br /><img src="https://github.com/HTPdevs.png?size=40" alt="HTPdevs" width="20" height="20" /> <b>HTPfinder</b></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/dsatpm/merch-table"><img src="https://opengraph.githubassets.com/1/dsatpm/merch-table" alt="Merch Table" width="300" /><br /><img src="https://github.com/dsatpm.png?size=40" alt="dsatpm" width="20" height="20" /> <b>Merch Table</b></a><br /><sub>★ 0</sub>
+    </td>
+  </tr>
+</table>
 <!-- FEATURED_PROJECTS_END -->
 
 ## Connect
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/dsatpm">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="mailto:jeremiah@htpdevs.tech">
+    <img src="https://img.shields.io/badge/Email-jeremiah@htpdevs.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/htpdevs">
+    <img src="https://img.shields.io/badge/Instagram-@htpdevs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-

@@ -25,89 +25,26 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
+          output_action: none
           config_presets: dracula
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
 
-      - name: Update "Now" section in README
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test README helpers
+        run: node --test scripts/readme-sections.test.js
+
+      - name: Update "Now" and "Featured Projects" sections in README
         uses: actions/github-script@v7
         continue-on-error: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const fs = require('fs');
-            const path = './README.md';
-            const owner = context.repo.owner;
-            const now = new Date();
-            const updatedDate = now.toISOString().slice(0, 10);
-
-            const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-            const sinceDate = sevenDaysAgo.toISOString().slice(0, 10);
-
-            async function withRetry(fn, label) {
-              const maxAttempts = 3;
-              for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-                try {
-                  return await fn();
-                } catch (err) {
-                  core.warning(`${label} failed (attempt ${attempt}/${maxAttempts}): ${err.message}`);
-                  if (attempt === maxAttempts) throw err;
-                  await new Promise((resolve) => setTimeout(resolve, attempt * 5000));
-                }
-              }
-            }
-
-            let totalCommits, prCount, issueCount;
-            try {
-              const commits = await withRetry(
-                () => github.rest.search.commits({ q: `author:${owner} author-date:>=${sinceDate}`, per_page: 1 }),
-                'Commit search'
-              );
-              totalCommits = commits.data.total_count;
-
-              const prs = await withRetry(
-                () => github.rest.search.issuesAndPullRequests({ q: `type:pr author:${owner} created:>=${sinceDate}`, per_page: 1 }),
-                'PR search'
-              );
-              prCount = prs.data.total_count;
-
-              const issues = await withRetry(
-                () => github.rest.search.issuesAndPullRequests({ q: `type:issue author:${owner} created:>=${sinceDate}`, per_page: 1 }),
-                'Issue search'
-              );
-              issueCount = issues.data.total_count;
-            } catch (err) {
-              core.warning(`Giving up on "Now" section update for this run; leaving README unchanged. Last error: ${err.message}`);
-              return;
-            }
-
-            const lines = [];
-            lines.push(`**Last updated:** ${updatedDate}`);
-            lines.push('');
-            lines.push(`- Commits (last 7 days): ${totalCommits}`);
-            lines.push(`- Pull requests opened (last 7 days): ${prCount}`);
-            lines.push(`- Issues opened (last 7 days): ${issueCount}`);
-            lines.push('');
-            lines.push(`_Auto-generated summary for @${owner}_`);
-
-            const newSection = lines.join('\n');
-
-            const startMarker = '<!-- NOW_SECTION_START -->';
-            const endMarker = '<!-- NOW_SECTION_END -->';
-
-            const readme = fs.readFileSync(path, 'utf8');
-            const startIndex = readme.indexOf(startMarker);
-            const endIndex = readme.indexOf(endMarker);
-
-            if (startIndex === -1 || endIndex === -1) {
-              throw new Error('NOW section markers not found in README.md');
-            }
-
-            const before = readme.slice(0, startIndex + startMarker.length);
-            const after = readme.slice(endIndex);
-
-            const updatedReadme = `${before}\n\n${newSection}\n${after}`;
-
-            fs.writeFileSync(path, updatedReadme);
+            await require('./scripts/update-readme.js')({ github, context, core });
 
       - name: Generate header metrics card
         uses: lowlighter/metrics@latest

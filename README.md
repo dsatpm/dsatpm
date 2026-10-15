@@ -45,23 +45,21 @@ _Auto-generated summary for @dsatpm_
 
 <!-- FEATURED_PROJECTS_START -->
 <p align="left">
-  <a href="https://github.com/HelloWorldDevs/pantheon-ci-tools">Pantheon CI Tool</a>
+  <a href="https://github.com/HTPdevs/birthmark">birthmark</a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/dsatpm/d9book">Drupal 9 Book</a>
+  <a href="https://github.com/HTPdevs/htpfinder">HTPfinder</a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/dsatpm/generative-ai-for-beginners">Generative AI for Beginners</a>
+  <a href="https://github.com/dsatpm/merch-table">Merch Table</a>
 </p>
 <!-- FEATURED_PROJECTS_END -->
 
 ## Connect
 
 <p align="left">
-  <a href="https://helloworlddevs.com">
-    <img src="https://img.shields.io/badge/HelloWorldDevs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..." /></a>
   <a href="https://www.buymeacoffee.com/dsatpm">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>

@@ -8,10 +8,10 @@
 
 <!-- NOW_SECTION_START -->
 
-**Last updated:** 2026-02-24
+**Last updated:** 2026-10-15
 
-- Commits (last 7 days): 1
-- Pull requests opened (last 7 days): 0
+- Commits (last 7 days): 39
+- Pull requests opened (last 7 days): 39
 - Issues opened (last 7 days): 0
 
 _Auto-generated summary for @dsatpm_
@@ -47,13 +47,13 @@ _Auto-generated summary for @dsatpm_
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/HTPdevs/birthmark"><img src="https://opengraph.githubassets.com/1/HTPdevs/birthmark" alt="Birthmark" width="300" /><br /><img src="https://github.com/HTPdevs.png?size=40" alt="HTPdevs" width="20" height="20" /> <b>Birthmark</b></a><br /><sub>★ 0</sub>
+      <a href="https://github.com/HTPdevs/birthmark"><img src="https://opengraph.githubassets.com/1/HTPdevs/birthmark" alt="Birthmark" width="300" /><br /><img src="https://github.com/HTPdevs.png?size=40" alt="HTPdevs" width="20" height="20" /> <b>Birthmark</b></a><br /><sub>TypeScript · ★ 0</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/HTPdevs/htpfinder"><img src="https://img.shields.io/badge/HTPfinder-181717?style=for-the-badge&logo=github&logoColor=white" alt="HTPfinder" /><br /><img src="https://github.com/HTPdevs.png?size=40" alt="HTPdevs" width="20" height="20" /> <b>HTPfinder</b></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/dsatpm/merch-table"><img src="https://opengraph.githubassets.com/1/dsatpm/merch-table" alt="Merch Table" width="300" /><br /><img src="https://github.com/dsatpm.png?size=40" alt="dsatpm" width="20" height="20" /> <b>Merch Table</b></a><br /><sub>★ 0</sub>
+      <a href="https://github.com/dsatpm/merch-table"><img src="https://opengraph.githubassets.com/1/dsatpm/merch-table" alt="Merch Table" width="300" /><br /><img src="https://github.com/dsatpm.png?size=40" alt="dsatpm" width="20" height="20" /> <b>Merch Table</b></a><br /><sub>TypeScript · ★ 0</sub>
     </td>
   </tr>
 </table>
